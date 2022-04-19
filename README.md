@@ -5,7 +5,7 @@
 
 <ul>
   <li>
-:briefcase: Software Engineer
+:briefcase: Software Engineer</b>
 :chart_with_upwards_trend: Trader and Crypto Master Exp
   </li>
   </ul>
