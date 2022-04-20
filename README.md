@@ -24,3 +24,24 @@
    <a href= "mailto:marlon.sutana@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href="https://www.twitch.tv/pactx" target="_blank"><img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
+  _______________________
+  
+  <!DOCTYPE html>
+<html>
+<head>
+    <title>Glowing Gradient Icon Hover Effects | Flawless Coder</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <ul>
+        <li><a href="https://www.youtube.com/channel/UC3BHmrYvhSKNSmwpHNl3NwA" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.facebook.com/pactx.official/" target="_blank"><i class="fa fa-cog fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.instagram.com/officialpactx/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <li><a href="https://github.com/pactx" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.twitch.tv/pactx" target="_blank"><i class="fa fa-twitch" aria-hidden="true"></i></a></li>
+    </ul>
+</body>
+</html>
